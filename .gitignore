@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# VsCode
+.vscode
+
+# My files
+/file_example
+pinatacopy.py
